@@ -1,0 +1,41 @@
+_repo: Signalling-across-space-without-wires-being-a-description-of-the-work-of-Hertz-his-successors_69253
+_version: 0.0.1
+alternative_title: "Signalling through space without wires\r\nthe work of Hertz &\
+  \ his successors"
+creator:
+  author:
+    agent_name: Lodge, Oliver, Sir
+    aliases:
+    - Lodge, Oliver Joseph, Sir
+    - Lodge, Sir Oliver J.
+    - Lodge, Oliver J.
+    birthdate: 1851
+    deathdate: 1940
+    gutenberg_agent_id: '31912'
+    url: http://www.gutenberg.org/2009/agents/31912
+    wikipedia: https://en.wikipedia.org/wiki/Oliver_Lodge
+description: ''
+gutenberg_issued: '2022-10-28'
+identifiers:
+  gutenberg: '69253'
+  lccn: 01018577
+language: en
+pgterms:marc904: https://archive.org/details/signallingacross00lodgrich
+pgterms:marc905: 20220630082651lodge
+pgterms:marc906: '1900'
+pgterms:marc907: GB
+production_note: deaurider and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United Kingdom :"The Electrician" printing and publishing company,1900.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: '"The Electrician" series'
+subjects:
+- !lcsh 'Telegraph, Wireless'
+- !lcsh 'Electric waves'
+- !lcc 'QC'
+- GITenberg
+title: "Signalling across space without wires\r\nbeing a description of the work of\
+  \ Hertz & his successors"
+url: http://www.gutenberg.org/ebooks/69253
