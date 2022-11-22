@@ -2,6 +2,9 @@ _repo: Signalling-across-space-without-wires-being-a-description-of-the-work-of-
 _version: 0.1.0
 alternative_title: "Signalling through space without wires\r\nthe work of Hertz &\
   \ his successors"
+covers:
+- cover_type: archival
+  image_path: 69253-h/images/cover.jpg
 creator:
   author:
     agent_name: Lodge, Oliver, Sir
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31912
     wikipedia: https://en.wikipedia.org/wiki/Oliver_Lodge
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69253#Signalling-across-space-without-wires-being-a-description-of-the-work-of-Hertz-his-successors
 gutenberg_issued: '2022-10-28'
 identifiers:
   gutenberg: '69253'
